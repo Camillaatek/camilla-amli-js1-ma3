@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: poppins;
+}
+
+h1{
+    
+    display: flex;
+    justify-content: center;
+}
+h2{
+    display: flex;
+    justify-content: center;
+
+}
+
+ul {
+        
+    list-style: none;
+}
+
+li{
+    display: flex;
+    justify-content: center;
+}
